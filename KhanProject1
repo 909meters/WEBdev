@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    
+    <style>
+        body{
+            background-color : pink;
+        }
+        
+        h1 {
+            color : pink;
+            background-color : black;
+        }
+        
+        .only {
+            color: red; 
+        }
+        
+        h3 {
+            color: white;
+            background-color: black;
+        }
+        
+        .toplist {
+            color: red;
+        }
+        
+        #activ {
+            background-color : white;
+        }
+    </style>
+    <body>
+    
+        <h1>Travel to Hawaii</h1>
+        
+        <p><strong>Hawaii</strong> is a U.S. state located in the Pacific Ocean. It is the <em class = "only">only state</em> outside North America, the <em class = "only">only island state</em>, and the only state in the tropics. Hawaii is also one of a handful of U.S. states to have once been an independent nation.</p>
+        
+        <h3>Top 3 places to visit:</h3>
+        <ol class = "toplist">
+            <li> Oahu's North Shore </li>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nshore.jpg/480px-Nshore.jpg" width = "200">
+            
+            <li> Molokai </li>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Molokai_hello.jpg/330px-Molokai_hello.jpg" width = "200">
+            
+            <li> Hapuna Beach  </li>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skimboarder_at_hapuna_beach.jpg/375px-Skimboarder_at_hapuna_beach.jpg" width = "200">
+        </ol>
+        
+        <h3>Activities that you can try there:</h3>
+        <ul id = "activ">
+            <li> Surfing
+            <li> Traditional dances
+            <li> Diving
+            <li> Excursions
+            and some more</li>
+        </ul>
+        
+        <p> I hope this information was useful. <br>
+        Enjoy your trip ^^
+        </p>
+        
+    </body>
+</html>
+
