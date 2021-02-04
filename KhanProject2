@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <style>
+        h1 {
+            background-color : pink;
+        }
+        
+        h2 {
+            color : green;
+        }
+        
+        .step1 {
+            color : red;
+        }
+    </style>
+    <body>
+       
+        <h1>Aida's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Recipe #1</a></li>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Makaronilaatikko.jpg/1280px-Makaronilaatikko.jpg" width = "200">
+            
+            <li> <a href = "#recipe2">Recipe #2</a></li>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carnegie_Deli_Strawberry_Cheesecake.jpg/1280px-Carnegie_Deli_Strawberry_Cheesecake.jpg" width = "200">
+            
+            <li> <a href = "#recipe3">Recipe #3</a></li>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Heap_of_pancakes_in_Sweden.JPG/1280px-Heap_of_pancakes_in_Sweden.JPG" width = "200">
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 1 hour</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Кабачки</td>
+                    <td> 1.5 кг</td>
+                </tr>
+                <tr>
+                    <td>Помидоры</td>
+                    <td> 1-2 штук </td>
+                </tr>
+                <tr>
+                    <td>Сыр российский </td>
+                    <td> 60 г</td>
+                </tr>
+                <tr>
+                    <td>Сыр сулугуни (или моцарелла) </td>
+                    <td> 60 г</td>
+                </tr>
+                <tr>
+                    <td>Кетчуп </td>
+                    <td> 2 ст.л.</td>
+                </tr>
+                <tr>
+                    <td>Желток </td>
+                    <td> 1 штук</td>
+                </tr>
+                <tr>
+                    <td>Мука </td>
+                    <td> 90 г</td>
+                </tr>
+                <tr>
+                    <td>Соль </td>
+                    <td>1.5 ч.л.</td>
+                </tr>
+                
+            </tbody>
+        </table>
+        
+        <p><strong class = "step1">Step 1:</strong> Кабачки натереть на крупной тёрке. Добавить 1 ч. ложку соли. Оставить постоять 5-10 минут.<br>
+        <strong>step 2:</strong> Отжать кабачки, жидкость слить.<br>
+<strong> step 3:</strong> Добавить желток, сухие травы, просеянную муку, щепотку соли. Перемешать. <br>
+<strong>step 4:</strong> 
+Форму смазать подсолнечным маслом. У меня форма диаметром 26-27 см.<br>
+<strong> step 5: </strong> Кабачки равномерно распределить по форме и отправить в разогретую до 170-180 градусов духовку на 40-50 мин. <br>
+<strong> step 6: </strong> Помидоры нарезать кружочками. <br>
+<strong> step 7: </strong> 
+Сыр сулугуни (или моцарелла) нарезать ломтиками. 
+Российский сыр натереть на тёрке. 
+Запечённую кабачковую основу смазать кетчупом. <br>
+<strong> step 8: </strong> 
+Сверху разложить сыр сулугуни, помидоры.
+Посыпать тёртым сыром.
+Отправить на 10-15 минут в разогретую до 190-200 градусов духовку. 
+Запеканка из кабачков готова. Очень-очень вкусная! С начинкой можно экспериментировать! Мне нравится по типу пиццы "Маргарита"! Приготовьте и попробуйте. <br>
+</p>
+        
+    <h2 id="recipe2">Recipe #2</h2>
+        
+        <ul>
+            <li>Time: 0.5 hour</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Печенье песочное или несоленые крекеры</td>
+                    <td> 350 г</td>
+                </tr>
+                <tr>
+                    <td>Сыр сливочный (филадельфия)</td>
+                    <td> 1 кг </td>
+                </tr>
+                
+            </tbody>
+        </table>
+        
+        <p><strong class = "step1">Step 1:</strong>
+Готовим основу для чизкейка. В блендере измельчаем печенье в мелкую крошку.<br>
+        <strong>step 2:</strong> 
+Вливаем в крошку из печенья растопленное сливочное масло, добавляем сахар и хорошо перемешиваем.
+        </p>
+        
+        
+        <h2 id="recipe3">Recipe #3</h2>
+        
+        <ul>
+            <li>Time: 0.5 hour</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>яйца</td>
+                    <td> 2 шг</td>
+                </tr>
+                <tr>
+                    <td>сахар</td>
+                    <td>2 ст.л. </td>
+                </tr>
+                
+            </tbody>
+        </table>
+        
+        <p><strong class = "step1">Step 1:</strong>
+Постепенно добавить муку.<br>
+        <strong>step 2:</strong> Затем добавить кипяток и оставить тесто на 10-15 минут отдохнуть.
+        </p>
+        
+        
+        
+    <p><em>Source: <a href="https://www.russianfood.com/recipes/recipe.php?rid=147023">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
