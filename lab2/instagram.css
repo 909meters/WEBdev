@@ -1,0 +1,158 @@
+.log-in-card {
+    margin-left: 760px;
+    margin-top: -570px;
+    height: 383px;
+    width: 348px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    text-align: center;
+    background-color: white;
+}
+
+#instalogo {
+    text-align: center;
+    margin-top: 25px;
+}
+
+body {
+    background-color: rgb(247, 248, 250);
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+#phone-photo {
+    margin-top: 25px;
+    margin-left: 343px;
+    width: 385px;
+}
+
+#parol, #username {
+    padding: 10px 8px;
+    width: 244px;
+    font-size: 12px;
+    height: 18px;
+    border-radius: 3px;
+    border-style: double;
+    border-width: 0.5px;
+    border-color: lightgrey;
+}
+#username {
+    margin-top: 20px;
+}
+#parol{
+    margin-top: 5px;
+}
+.button-login {
+    font-family: Arial;
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    font-size: 13px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: bold;
+    width: 260px;
+    height: 27px;
+}
+
+.line-after-password1, .line-after-password2 {
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    text-align: center;
+    width: 100px;
+}
+.line-after-password1 {
+    margin-top:20px;
+    margin-left: 200px;
+}
+.line-after-password2 {
+    margin-top: -24px;
+    margin-left: 45px;
+}
+.or-word {
+    margin-top: -7px;
+    color: grey;
+    font-size: 13px;
+}
+
+#login-by-fb {
+    text-decoration: none;
+    font-size: 14px;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.forgot-password-link {
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.linkForpassword {
+    margin-top: 20px;
+}
+
+.linkforfb {
+    margin-top: 10px;
+}
+
+.card2 {
+    margin-left: -2px;
+    margin-top: 47px;
+    height: 50px;
+    width: 348px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    text-align: center;
+    background-color: white;
+    font-size: 13px;
+    text-align: center;
+}
+
+.link-for-register {
+    text-decoration: none;
+    color : deepskyblue;
+    font-weight: bold;
+}
+.ustanovite {
+    font-size: 13px;
+    margin-top: 10px;
+}
+.button-to-download {
+    margin-top: -3px;
+    margin-left: 40px;
+    width: 90px;
+    height: 20px;
+}
+
+.button-to-download1 {
+    margin-top: -22px;
+    margin-left: 180px;
+    width: 90px;
+    height: 23px;
+}
+
+.button1 {
+    border: none;
+}
+
+.additional {
+    margin-top: 250px;
+    text-align: center;
+    color: grey;
+    font-size: 12px;
+
+}
+
+.add-set {
+    text-decoration: none;
+    color: grey;
+}
+
+.language {
+    border: none;
+    background-color: rgb(247, 248, 250);
+}
