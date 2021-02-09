@@ -1,0 +1,154 @@
+body {
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.mic-button {
+    margin-left: 75px;
+    margin-top: -9px;
+    height: 60px;
+    width: 150px;
+    border: none;
+}
+
+ul.menu-buttons {
+    padding: 10px 16px;
+    list-style: none;
+    margin-left: 225px;
+    margin-top: -56px;
+}
+
+ul.menu-buttons li {
+    display: inline;
+    font-size: 14.5px;
+}
+
+ul.menu-buttons li+li:before {
+    padding: 8px;
+    color: black;
+    content: "    ";
+}
+
+ul.menu-buttons li a{
+    color: black;
+    text-decoration: none;
+}
+
+ul.menu-buttons li a:hover, #button2 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#button1 {
+    border: none;
+    background-color: white;
+    width: 1450px;
+}
+
+.division1 {
+    margin-left: 80px;
+}
+
+h1 {
+    margin-top:-380px;
+    margin-left: 100px;
+    font-size: 34px;
+}
+
+#description {
+    margin-left: 100px;
+    margin-top: -3px;
+}
+
+#button2 {
+    margin-left: 100px;
+    background-color: black;
+    border: none;
+    color: white;
+    text-decoration: none;
+    width: 155px;
+    height: 40px;
+}
+
+#button2 a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#button2 a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+#button3 a {
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#button3 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#button3 {
+    margin-left: 70px;
+    background-color: rgb(230, 230, 230);
+    border: none;
+    color: white;
+    text-decoration: none;
+    width: 155px;
+    height: 40px;
+}
+
+.cards {
+    margin-left: 85px;
+    margin-top: 250px;
+}
+
+.pictures {
+    width: 9.1cm;
+    height: 5.2cm;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+}
+
+.button-lower {
+    border: none;
+    background-color: white;
+    font-size: 17px;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+.card-division {
+    display: inline-flex;
+}
+
+.cards1 {
+    margin-left: 20px;
+}
+
+#button-login {
+    height: 20px;
+    width: 60px;
+    margin-top: -30px;
+    margin-left: 1400px;
+}
+.login-button {
+    margin-top: -35px;
+}
+
+
+.poisk {
+    margin-left: 1250px;
+    width: 70px;
+    border-style: solid;
+    margin-top: -500px;
+}
+
+
+
